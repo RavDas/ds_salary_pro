@@ -1,3 +1,3 @@
 # ds_salary_proj
-new commit
+new commit\n
 commited again for test purposes
